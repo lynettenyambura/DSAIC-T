@@ -1,2 +1,2 @@
 # DSAIC-T
-This is my ML first project
+This is my first ML project
